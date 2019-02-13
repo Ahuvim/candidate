@@ -6,7 +6,7 @@ const InterviewTime = (props) => (
     <div className="interviewTime">
         <div className="interviewTime-stop">
             <span className="stopt-time-title">{props.title}</span>
-            <span>
+            <span className="time-display">
                 <span className="stop-time">{props.time}</span>
                 <FontAwesomeIcon size="2x" icon={props.icon} />
             </span>

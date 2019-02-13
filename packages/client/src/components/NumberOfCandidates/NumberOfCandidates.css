@@ -17,9 +17,9 @@
 .numbers-of-candidtates-number {
     display: inline-block;
     font-size: 5rem;
-    margin-left: 2rem;
+    margin-right: 2rem;
 }
 
 .numbers-of-candidtates-icon {
-    margin-left: 10px;
+    margin-right: 50px;
 }
