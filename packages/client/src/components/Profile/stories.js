@@ -5,4 +5,3 @@ import CandidateProfile from './CandidateProfile';
 
 storiesOf('CandidateProfile', module)
     .add('Profile', () => <CandidateProfile />);
-;

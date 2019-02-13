@@ -6,4 +6,3 @@ import NumberAndTimeInterview from './NumberAndTimeInterview';
 storiesOf('NumberAndTimeInterview', module)
     .add('NumberAndTimeInterview', () => <NumberAndTimeInterview
         onClick={action('clicked')}>Hello Button</NumberAndTimeInterview>);
-;
