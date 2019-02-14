@@ -1,0 +1,13 @@
+.RowDetails-icon {
+    transition: all 0.2s ease-in;
+}
+
+.RowDetails-icon:hover {
+    font-size: 1.8rem;
+    color: rgb(45, 192, 94);
+    cursor: pointer;
+}
+
+.RowDetails-tr:hover {
+    color: black;
+}
