@@ -5,7 +5,6 @@ import { linkTo } from '@storybook/addon-links';
 import { Button, Welcome } from '@storybook/react/demo';
 import 'bootstrap-v4-rtl/dist/css/bootstrap-rtl.min.css';
 
-import './sb.css';
 const req = require.context('../components', true, /stories\.js/);
 configure(() => {
     req.keys().forEach(filename => req(filename));
