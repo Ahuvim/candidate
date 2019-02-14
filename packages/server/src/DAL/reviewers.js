@@ -1,4 +1,4 @@
-var interviewers = [
+const interviewers = [
     {
         id: "8078413",
         firstName: "Maor",
@@ -23,7 +23,6 @@ var interviewers = [
         id: "5965487",
         firstName: "alkjamh",
         lastName: "ahuvim",
-    },
-]
+];
 
 module.exports = interviewers;
